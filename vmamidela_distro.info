@@ -1,7 +1,10 @@
 name = vmamidela_distro
 description = Install with commonly used features pre-configured.
 version = VERSION
+distribution_name = vmamidela
 core = 7.x
+
+
 dependencies[] = block
 dependencies[] = color
 dependencies[] = comment
@@ -51,8 +54,3 @@ dependencies[] = wysiwyg
 dependencies[] = wysiwyg_boxout
 dependencies[] = wysiwyg_linebreaks
 dependencies[] = wysiwyg_spellcheck
-
-; Information added by Drupal.org packaging script on 2014-08-06
-version = "7.34"
-project = "drupal"
-datestamp = "1407346433"
