@@ -98,6 +98,6 @@ libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinym
 libraries[tinymce][directory_name] = "tinymce"
 
 
-libraries[simplehtmldom][type] = "get"
-libraries[simplehtmldom][url] = "http://ftp.drupal.org/files/projects/simplehtmldom-7.x-2.1.zip"
+libraries[simplehtmldom][download][type] = "get"
+libraries[simplehtmldom][download][url] = "http://ftp.drupal.org/files/projects/simplehtmldom-7.x-2.1.zip"
 libraries[simplehtmldom][directory_name] = "simplehtmldom"
