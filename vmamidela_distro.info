@@ -42,7 +42,6 @@ dependencies[] = link
 dependencies[] = nice_menus
 dependencies[] = pathauto
 dependencies[] = responsive_menus
-dependencies[] = simplehtmldom
 dependencies[] = systeminfo
 dependencies[] = tableofcontents
 dependencies[] = taxonomy_menu
