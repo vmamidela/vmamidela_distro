@@ -49,9 +49,6 @@ projects[pathauto][subdir] = contrib
 projects[responsive_menus][version] = "1.5"
 projects[responsive_menus][subdir] = contrib
 
-projects[simplehtmldom][version] = "2.1"
-projects[simplehtmldom][subdir] = contrib
-
 projects[systeminfo][version] = "3.0-beta1"
 projects[systeminfo][subdir] = contrib
 
@@ -74,16 +71,16 @@ projects[webform_features][version] = "3.0-beta3"
 projects[webform_features][subdir] = contrib
 
 projects[wysiwyg][version] = "2.2"
-;projects[wysiwyg][subdir] = contrib
+projects[wysiwyg][subdir] = contrib
 
 projects[wysiwyg_spellcheck][version] = 1.1
-;projects[wysiwyg_spellcheck][subdir] = contrib
+projects[wysiwyg_spellcheck][subdir] = contrib
 
 projects[wysiwyg_linebreaks][version] = 1.6
-;projects[wysiwyg_linebreaks][subdir] = contrib
+projects[wysiwyg_linebreaks][subdir] = contrib
 
 projects[wysiwyg_boxout][version] = 1.1
-;projects[wysiwyg_boxout][subdir] = contrib
+projects[wysiwyg_boxout][subdir] = contrib
 
 ; Themes
 projects[omega][version] = "4.2"
@@ -99,3 +96,8 @@ projects[business_responsive_theme][version] = "1.2"
 libraries[tinymce][download][type] = "get"
 libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.11.zip"
 libraries[tinymce][directory_name] = "tinymce"
+
+
+libraries[simplehtmldom][type] = "get"
+libraries[simplehtmldom][url] = "http://ftp.drupal.org/files/projects/simplehtmldom-7.x-2.1.zip"
+libraries[simplehtmldom][directory_name] = "simplehtmldom"
