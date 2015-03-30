@@ -85,9 +85,6 @@ projects[wysiwyg_boxout][subdir] = contrib
 projects[views_slideshow][version] = 3.1
 projects[views_slideshow][subdir] = contrib
 
-projects[views_slideshow_cycle][version] = 3.1
-projects[views_slideshow_cycle][subdir] = contrib
-
 ; Themes
 projects[omega][version] = "4.2"
 
